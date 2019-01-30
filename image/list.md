@@ -1,9 +1,9 @@
 ## 列出镜像
 
-要想列出已经下载下来的镜像，可以使用 `docker image ls` 命令。
+要想列出已经下载下来的镜像，可以使用 `docker images ls` 命令。
 
 ```bash
-$ docker image ls
+$ docker images ls
 REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
 redis                latest              5f515359c7f8        5 days ago          183 MB
 nginx                latest              05a60462f8ba        5 days ago          181 MB
